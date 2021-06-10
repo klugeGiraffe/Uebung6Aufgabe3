@@ -9,45 +9,49 @@
       "name" : "Captain Vengeful Nightowl",
       "age" : 22,
       "secretIdentity" : "Carry Carter",
+	    "weakness" : "early mornings",
       "powers" : [
         "Sleeping in",
         "Waking up late",
         "Radar vision",
 		"Super Hearing"
-      ],
-	  "weaknuess" : "early mornings"
+      ]
+	  
     },
     {
       "name" : "Moleman",
       "age" : 29,
       "secretIdentity" : "Hein van der Gaag",
+      "weakness" : "bright sunlight",
       "powers" : [
         "Digging",
         "Dark Vision"
-      ],
-	  "weaknuess" : "bright sunlight"
+      ]
+	  
     },
     {
       "name" : "The mysterious wasp",
       "age" : 39,
       "secretIdentity" : "Jane Wilson",
+	    "weakness" : "sweet tooth",
       "powers" : [
         "Paralyzing Poison",
         "Superman reflexes",
         "Supersonic flight"
-      ],
-	  "weaknuess" : "sweet tooth"
+      ]
+	  
     }
 	{
       "name" : "The incredible Grasshopper",
       "age" : 18,
       "secretIdentity" : "Huckleberry Hopper",
+	  "weakness" : "sitting still",
       "powers" : [
         "Super jump",
         "sound of silence",
         "Camouflage"
-      ],
-	  "weaknuess" : "sitting still"
+      ]
+	  "weaknuess" : "sitting still",
     }
   ]
 }
