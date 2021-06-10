@@ -1,41 +1,53 @@
 {
-  "squadName" : "Super Hero Squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
+  "squadName" : "AWESOME ANIMAL ACTION HEROES",
+  "homeTown" : "Raccon City",
+  "formed" : 2020,
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
+      "name" : "Captain Vengeful Nightowl",
+      "age" : 22,
+      "secretIdentity" : "Carry Carter",
       "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
-      ]
+        "Sleeping in",
+        "Waking up late",
+        "Radar vision",
+		"Super Hearing"
+      ],
+	  "weaknuess" : "early mornings"
     },
     {
-      "name" : "Madame Uppercut",
+      "name" : "Moleman",
+      "age" : 29,
+      "secretIdentity" : "Hein van der Gaag",
+      "powers" : [
+        "Digging",
+        "Dark Vision"
+      ],
+	  "weaknuess" : "bright sunlight"
+    },
+    {
+      "name" : "The mysterious wasp",
       "age" : 39,
       "secretIdentity" : "Jane Wilson",
       "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
-      ]
-    },
-    {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
+        "Paralyzing Poison",
+        "Superman reflexes",
+        "Supersonic flight"
+      ],
+	  "weaknuess" : "sweet tooth"
+    }
+	{
+      "name" : "The incredible Grasshopper",
+      "age" : 18,
+      "secretIdentity" : "Huckleberry Hopper",
       "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
-      ]
+        "Super jump",
+        "sound of silence",
+        "Camouflage"
+      ],
+	  "weaknuess" : "sitting still"
     }
   ]
 }
